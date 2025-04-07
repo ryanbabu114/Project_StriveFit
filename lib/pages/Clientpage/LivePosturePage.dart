@@ -13,7 +13,7 @@ class LivePosturePage extends StatefulWidget {
 class _LivePosturePageState extends State<LivePosturePage> {
   CameraController? _cameraController;
   List<CameraDescription>? _cameras;
-  String _postureResult = "Waiting for analysis...";
+  String _postureResult = "Waiting for response...";
   bool _isStreaming = false;
   String selectedExercise = 'Squat'; // Default exercise
 
