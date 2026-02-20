@@ -11,25 +11,37 @@ Strive Fit is a Gym Management and Posture correction System designed to streaml
 🚀 Key Features
 
 🔐 User Authentication (Admin / Member Roles)
+
 👤 Member Profile Management
+
 🏋️ Trainer Exercise Upload System
+
 🛒 Integrated Shop with Stock Control
+
 💳 Razorpay Payment Integration
+
 🤖 AI Chatbot Integration
+
 🧍 Real-Time Posture Detection System
+
 ☁️ Supabase Backend Integration
 
 🛠️ Tech Stack
 
 Frontend
+
 Flutter
 
 Backend
+
 Python (Flask)
 
 Database
+
 Supabase (PostgreSQL)
 
 AI & Vision
+
 Mediapipe
+
 Gemini
